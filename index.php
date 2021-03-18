@@ -1,3 +1,3 @@
 <?php
-print "Welcome to MY First okd ";
+print "Welcome to second web-app okd";
 ?>
